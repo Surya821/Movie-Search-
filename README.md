@@ -16,7 +16,7 @@ A clean, responsive, and modern movie search web application built using **HTML*
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live demo](https://your-demo-link.com)  
+👉 [Click here to view the live demo](https://surya821.github.io/Movie-Search-Website/)  
 *Replace the link above with your actual deployment (e.g. GitHub Pages, Netlify, Vercel)*
 
 ---
