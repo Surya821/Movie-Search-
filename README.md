@@ -14,6 +14,13 @@ A clean, responsive, and modern movie search web application built using **HTML*
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live demo](https://your-demo-link.com)  
+*Replace the link above with your actual deployment (e.g. GitHub Pages, Netlify, Vercel)*
+
+---
+
 ## 📸 Preview
 
 ![Movie Search Preview](screenshot1.png)
@@ -45,7 +52,7 @@ cd movie-search-app
 ```
 ---
 
-# 🔑 API Key Setup: <br>
+## 🔑 API Key Setup: <br>
 This app uses the OMDb API which requires a free API key.<br>
 
 Visit OMDb API and request a free API key.<br>
@@ -55,8 +62,8 @@ const API_KEY = 'your_api_key_here';
 
 ---
 
-# 📂 Project Structure<br>
-movie-search-app/<br>
+## 📂 Project Structure<br>
+Movie-Search-Website<br>
 ├── index.html<br>
 ├── style.css<br>
 ├── script.js<br>
@@ -64,7 +71,7 @@ movie-search-app/<br>
 
 ---
 
-# 🌗 Theme Toggle<br>
+## 🌗 Theme Toggle<br>
 🌙 Moon icon shown in dark mode<br>
 
 ☀️ Sun icon shown in light mode<br>
