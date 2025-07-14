@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Movie Search</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Movie Search</h1>
+      <button id="theme-toggle" aria-label="Toggle Theme">
+        <svg id="theme-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+          <path d="M12 3a9 9 0 1 0 9 9c0-.34-.02-.67-.06-1A7 7 0 0 1 12 3z"/>
+        </svg>
+      </button>
+    </header>
+
+    <main>
+      <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Search for a movie..." />
+        <button id="search-btn">Search</button>
+      </div>
+      <div id="movie-list"></div>
+    </main>
+
+    <footer>
+      <p>Author: Surya Pratap Singh</p>
+      <p>
+        <a href="https://github.com/Surya821" target="_blank">GitHub</a> |
+        <a href="https://www.linkedin.com/in/surya-pratap-singh1/" target="_blank">LinkedIn</a>
+      </p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
