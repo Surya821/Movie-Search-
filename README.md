@@ -45,7 +45,7 @@ cd movie-search-app
 ```
 ---
 
-#🔑 API Key Setup: <br>
+# 🔑 API Key Setup: <br>
 This app uses the OMDb API which requires a free API key.<br>
 
 Visit OMDb API and request a free API key.<br>
@@ -55,7 +55,7 @@ const API_KEY = 'your_api_key_here';
 
 ---
 
-#📂 Project Structure<br>
+# 📂 Project Structure<br>
 movie-search-app/<br>
 ├── index.html<br>
 ├── style.css<br>
@@ -64,7 +64,7 @@ movie-search-app/<br>
 
 ---
 
-#🌗 Theme Toggle<br>
+# 🌗 Theme Toggle<br>
 🌙 Moon icon shown in dark mode<br>
 
 ☀️ Sun icon shown in light mode<br>
