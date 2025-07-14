@@ -42,7 +42,7 @@ git clone https://github.com/your-username/movie-search-app.git
 cd movie-search-app
 
 # Open index.html in your browser
-
+```
 ---
 
 🔑 API Key Setup
